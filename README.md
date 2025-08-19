@@ -71,7 +71,7 @@ I believe in using tech for good. Here are a few ways I give back:
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/your-profile)  [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube)](https://youtube.com/@your-channel) [![Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify)](https://open.spotify.com/user/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/your-profile)  [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube)](https://youtube.com/@your-channel) [![Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify)](https://[open.spotify.com/user/your-profile](https://open.spotify.com/show/4frUoKQY7yTWj6LXfsinqb?si=4b9c4b06ab0a4d21&nd=1&dlsi=091fba12b0514b65)
 ---
 
 _Thanks for stopping by. Stay curious._
