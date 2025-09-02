@@ -32,14 +32,14 @@ I write about:
 
 ## 🎓 Certifications
 
- **AWS CloudOps (formerly SysOps) – Associate (In View)**
- **Azure Administrator– Associate (In View)**
- **Kubernetes and Cloud Native Associate – CNCF**
- **Microsoft: Administering Active Directory Domain Services**
- **Oracle Cloud Infrastructure Foundation Associate**
- **Security Essentials – Microsoft & LinkedIn**
- **Managing Google Workspace – Google & Coursera**
- **System Administration Essentials – Microsoft & LinkedIn**
+- **AWS CloudOps (formerly SysOps) – Associate (In View)**
+- **Azure Administrator– Associate (In View)**
+- **Kubernetes and Cloud Native Associate – CNCF**
+- **Microsoft: Administering Active Directory Domain Services**
+- **Oracle Cloud Infrastructure Foundation Associate**
+- **Security Essentials – Microsoft & LinkedIn**
+- **Managing Google Workspace – Google & Coursera**
+- **System Administration Essentials – Microsoft & LinkedIn**
 
 > Always learning, always evolving.
 
