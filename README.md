@@ -1,7 +1,7 @@
 
 # 👋 Welcome
 
-Hi, I'm **Ifeanyi** — a curious technologist with a background in technical support, currently thriving as a **System Administrator** and **Cloud Support Engineer**. I'm exploring the intersections of **Site Reliability Engineering** and **Technical Program Management**, while writing content that bridges clarity and complexity.
+Hi, I'm **Ifeanyi** — a curious technologist with a background in customer service and technical support, currently thriving as a **System Administrator** and **Cloud Support Engineer**. I'm exploring the intersections of **Site Reliability Engineering** and **Technical Program Management**, while writing content that bridges clarity and complexity.
 
 ---
 
@@ -65,7 +65,7 @@ I believe in using tech for good. Here are a few ways I give back:
 
 ## 📄 Resume
 
-🎯 [Download My Resume](https://your-resume-link.com)
+🎯 [View My Resume](https://www.notion.so/ifeanyi-asonye/Resume-22e4c0971a578069ac75e58c5065ec9c)
 
 ---
 
