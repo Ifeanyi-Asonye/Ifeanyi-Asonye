@@ -57,8 +57,8 @@ I write about:
 | **Databases**                  | MySQL, PostgreSQL (basic administration and usage)                                       |
 | **Process & Delivery**         | Agile, Scrum, Lean methodologies                                                         |
 
-**Others
-- Community engagement cordinator
+**Others**
+- Community engagement communication
 - Stakeholder engagement. 
 ---
 
@@ -73,17 +73,7 @@ I believe in using tech for good. Here are a few ways I give back:
 
 ---
 
-## 🛠️ Skills
 
-| Skill                          | Level        |
-|-------------------------------|--------------|
-| System Administration         | ★★★★☆        |
-| Cloud Support (AWS, Azure)    | ★★★★☆        |
-| Technical Writing             | ★★★★☆        |
-| Site Reliability Engineering  | ★★★☆☆        |
-| Program Management            | ★★★☆☆        |
-
----
 
 ## 📄 Resume
 
