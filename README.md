@@ -19,9 +19,11 @@ Here are a few things I've built or contributed to:
 
 I write about:
 
-- Cloud architecture and best practices  
+- Cloud security and best practices  
 - System administration tips and automation  
-- Technical program management insights  
+- Technical program management insights
+- Database management
+- Infrastructure Monitoring and Reliabilty 
 - Career reflections and tech culture  
 
 📚 [Read my latest posts](https://your-blog-link.com)
@@ -30,11 +32,14 @@ I write about:
 
 ## 🎓 Certifications
 
-- **AWS Certified Solutions Architect – Associate**  
-- **Microsoft Certified: Azure Administrator Associate**  
-- **Google Cloud Digital Leader**  
-- **ITIL® Foundation Certificate in IT Service Management**  
-- **CompTIA Linux+**
+ **AWS CloudOps (formerly SysOps) – Associate (In View)**
+ **Azure Administrator– Associate (In View)**
+ **Kubernetes and Cloud Native Associate – CNCF**
+ **Microsoft: Administering Active Directory Domain Services**
+ **Oracle Cloud Infrastructure Foundation Associate**
+ **Security Essentials – Microsoft & LinkedIn**
+ **Managing Google Workspace – Google & Coursera**
+ **System Administration Essentials – Microsoft & LinkedIn**
 
 > Always learning, always evolving.
 
@@ -71,7 +76,7 @@ I believe in using tech for good. Here are a few ways I give back:
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ifeany-asonye/)  [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube)](https://youtube.com/@your-channel) [![Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify)](https://open.spotify.com/user/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ifeany-asonye/)  [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube)](https://www.youtube.com/@TheSysadminGuy) [![Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify)](https://open.spotify.com/show/4frUoKQY7yTWj6LXfsinqb?si=880dcb2208b74eea)
 ---
 
 _Thanks for stopping by. Stay curious._
