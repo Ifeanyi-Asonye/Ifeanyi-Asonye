@@ -45,6 +45,23 @@ I write about:
 
 ---
 
+## **Technical Skills**
+
+| **Domain**                     | **Tools & Technologies**                                                                 |
+|-------------------------------|-------------------------------------------------------------------------------------------|
+| **Systems & Infrastructure**   | Linux (Ubuntu, CentOS, RedHat), Windows Server, VMware ESXi, Hyper-V, Docker             |
+| **Cloud & Hybrid Platforms**   | AWS, Microsoft Azure, Oracle Cloud Infrastructure (OCI), Active Directory, Azure AD      |
+| **Identity & Collaboration**   | Microsoft 365, Google Workspace, IAM                                                     |
+| **Monitoring & Reliability**   | Zabbix, ITIL practices, Quality Management Systems (QMS)                                 |
+| **Automation & Scripting**     | Bash scripting, Git (GitHub, Bitbucket, GitLab), System Documentation                    |
+| **Databases**                  | MySQL, PostgreSQL (basic administration and usage)                                       |
+| **Process & Delivery**         | Agile, Scrum, Lean methodologies                                                         |
+
+**Others
+- Community engagement cordinator
+- Stakeholder engagement. 
+---
+
 ## 🌍 Social Impact
 
 I believe in using tech for good. Here are a few ways I give back:
