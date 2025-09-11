@@ -1,7 +1,11 @@
+<div style="background-color:#f0f0f0;padding:40px;text-align:center;">
+  <h1 style="margin-bottom:10px;">Ifeanyi Asonye</h1>
+  <p style="font-size:18px;color:#555;">Welcome to my minimal portion of the internet...</p>
+</div>
 
 # 👋 Welcome
 
-Hi, I'm **Ifeanyi** — a curious technologist with a background in technical support, currently thriving as a **System Administrator** and **Cloud Support Engineer**. I'm exploring the intersections of **Site Reliability Engineering** and **Technical Program Management**, while writing content that bridges clarity and complexity.
+Hi, I'm **Ifeanyi** — a curious technologist with a background in customer service and technical support, currently thriving as a **System Administrator** and **Cloud Support Engineer**. I'm exploring the intersections of **Site Reliability Engineering** and **Technical Program Management**, while writing content that bridges clarity and complexity.
 
 ---
 
@@ -19,9 +23,11 @@ Here are a few things I've built or contributed to:
 
 I write about:
 
-- Cloud architecture and best practices  
+- Cloud security and best practices  
 - System administration tips and automation  
-- Technical program management insights  
+- Technical program management insights
+- Database management
+- Infrastructure Monitoring and Reliabilty 
 - Career reflections and tech culture  
 
 📚 [Read my latest posts](https://your-blog-link.com)
@@ -30,14 +36,34 @@ I write about:
 
 ## 🎓 Certifications
 
-- **AWS Certified Solutions Architect – Associate**  
-- **Microsoft Certified: Azure Administrator Associate**  
-- **Google Cloud Digital Leader**  
-- **ITIL® Foundation Certificate in IT Service Management**  
-- **CompTIA Linux+**
+- **AWS CloudOps (formerly SysOps) – Associate (In View)**
+- **Azure Administrator– Associate (In View)**
+- **Kubernetes and Cloud Native Associate – CNCF**
+- **Microsoft: Administering Active Directory Domain Services**
+- **Oracle Cloud Infrastructure Foundation Associate**
+- **Security Essentials – Microsoft & LinkedIn**
+- **Managing Google Workspace – Google & Coursera**
+- **System Administration Essentials – Microsoft & LinkedIn**
 
 > Always learning, always evolving.
 
+---
+
+## **Technical Skills**
+
+| **Domain**                     | **Tools & Technologies**                                                                 |
+|-------------------------------|-------------------------------------------------------------------------------------------|
+| **Systems & Infrastructure**   | Linux (Ubuntu, CentOS, RedHat), Windows Server, VMware ESXi, Hyper-V, Docker             |
+| **Cloud & Hybrid Platforms**   | AWS, Microsoft Azure, Oracle Cloud Infrastructure (OCI), Active Directory, Azure AD      |
+| **Identity & Collaboration**   | Microsoft 365, Google Workspace, IAM                                                     |
+| **Monitoring & Reliability**   | Zabbix, ITIL practices, Quality Management Systems (QMS)                                 |
+| **Automation & Scripting**     | Bash scripting, Git (GitHub, Bitbucket, GitLab), System Documentation                    |
+| **Databases**                  | MySQL, PostgreSQL (basic administration and usage)                                       |
+| **Process & Delivery**         | Agile, Scrum, Lean methodologies                                                         |
+
+**Others**
+- Community engagement communication
+- Stakeholder engagement. 
 ---
 
 ## 🌍 Social Impact
@@ -51,38 +77,17 @@ I believe in using tech for good. Here are a few ways I give back:
 
 ---
 
-## 🛠️ Skills
 
-# High level 
-| Skill                          | Level        |
-|-------------------------------|--------------|
-| System Administration         | ★★★★☆        |
-| Cloud Support (AWS, Azure)    | ★★★★☆        |
-| Technical Writing             | ★★★★☆        |
-| Site Reliability Engineering  | ★★★☆☆        |
-| Program Management            | ★★★☆☆        |
-
-
-# Granula 
-| Skill                          | Level        |
-|-------------------------------|--------------|
-| System Administration         | ★★★★☆        |
-| Cloud Support (AWS, Azure)    | ★★★★☆        |
-| Technical Writing             | ★★★★☆        |
-| Site Reliability Engineering  | ★★★☆☆        |
-| Program Management            | ★★★☆☆        |
-
----
 
 ## 📄 Resume
 
-🎯 [Download My Resume](https://your-resume-link.com)
+🎯 [View My Resume](https://www.notion.so/ifeanyi-asonye/Resume-22e4c0971a578069ac75e58c5065ec9c)
 
 ---
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/your-profile)  [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube)](https://youtube.com/@your-channel) [![Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify)](https://open.spotify.com/user/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ifeany-asonye/)  [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube)](https://www.youtube.com/@TheSysadminGuy) [![Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify)](https://open.spotify.com/show/4frUoKQY7yTWj6LXfsinqb?si=880dcb2208b74eea)
 ---
 
 _Thanks for stopping by. Stay curious._
