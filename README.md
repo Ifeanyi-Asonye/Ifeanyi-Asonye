@@ -53,6 +53,17 @@ I believe in using tech for good. Here are a few ways I give back:
 
 ## 🛠️ Skills
 
+# High level 
+| Skill                          | Level        |
+|-------------------------------|--------------|
+| System Administration         | ★★★★☆        |
+| Cloud Support (AWS, Azure)    | ★★★★☆        |
+| Technical Writing             | ★★★★☆        |
+| Site Reliability Engineering  | ★★★☆☆        |
+| Program Management            | ★★★☆☆        |
+
+
+# Granula 
 | Skill                          | Level        |
 |-------------------------------|--------------|
 | System Administration         | ★★★★☆        |
