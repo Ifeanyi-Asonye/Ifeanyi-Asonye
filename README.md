@@ -94,6 +94,14 @@ I'm a firm believer in using tech for good. Here are a few ways i'm trying to do
 
 ## 🌐 Connect with Me
 
+<form action="https://formspree.io/f/yourFormID" method="POST">
+  <input type="text" name="name" placeholder="Your name" required>
+  <input type="email" name="_replyto" placeholder="Your email" required>
+  <textarea name="message" placeholder="Your message" required></textarea>
+  <button type="submit">Send</button>
+</form>
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ifeany-asonye/)  [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube)](https://www.youtube.com/@TheSysadminGuy) [![Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify)](https://open.spotify.com/show/4frUoKQY7yTWj6LXfsinqb?si=880dcb2208b74eea)
 ---
 
