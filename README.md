@@ -1,11 +1,4 @@
 
-
-
-<div style="background-color:#f0f0f0;padding:40px;text-align:center;">
-  <p style="font-size:16px;color:#555;">Welcome to my minimal portion of the internet...👋</p>
-</div>
-
-
 <div style="display:flex;align-items:center;justify-content:space-between;background-color:#f0f0f0;padding:40px;">
   <div style="text-align:left;">
     <p style="font-size:16px;color:#555;">Welcome to my minimal portion of the internet...👋</p>
