@@ -3,6 +3,8 @@
   <p style="font-size:18px;color:#555;">Welcome to my minimal portion of the internet...👋</p>
 </div>
 
+---
+
 Hi, I'm **Ifeanyi** — a curious technologist with a background in customer service and technical support, currently thriving as a **System Administrator** and **Cloud Support Engineer**. I'm exploring the intersections of **Site Reliability Engineering** and **Technical Program Management**, while writing content that bridges clarity and complexity.
 
 ---
@@ -21,8 +23,8 @@ Here are a few things I've built or contributed to:
 
 I write about:
 
-- Cloud security and best practices  
 - System administration & Infrastructure Monitoring and Reliabilty  
+- Cloud security and best practices
 - Exploration in Database management & Technical program management
 - Career reflections and tech culture  
 - Faith and contemporary contents
@@ -42,7 +44,7 @@ I write about:
 - **Managing Google Workspace – Google & Coursera**
 - **System Administration Essentials – Microsoft & LinkedIn**
 
-> Always learning, always evolving.
+> Still learning, always evolving.
 
 ---
 
@@ -58,18 +60,21 @@ I write about:
 | **Databases**                  | MySQL, PostgreSQL (basic administration and usage)                                       |
 | **Process & Delivery**         | Agile, Scrum, Lean methodologies                                                         |
 
-**Others**
+**Other Skills**
+
 - Community engagement communication
 - Stakeholder engagement. 
+- Basic tech tutoring
+
 ---
 
 ## 🌍 Social Impact
 
-I believe in using tech for good. Here are a few ways I give back:
+I'm a firm believer in using tech for good. Here are a few ways i'm trying to do that:
 
-- **Tech Literacy Workshops** – Teaching digital skills to underserved communities  
-- **Mentorship** – Supporting early-career professionals in IT and cloud roles  
-- **Volunteer System Admin** – Helping nonprofits manage their infrastructure securely  
+- **Tech Literacy Workshops**   – Teaching digital skills to underserved communities  
+- **Mentorship**                – Supporting early-career professionals in IT and cloud roles  
+- **Volunteer System Admin**    – Helping nonprofits manage their infrastructure securely  
 - **Open Source Contributions** – Sharing tools and documentation for broader access  
 
 ---
