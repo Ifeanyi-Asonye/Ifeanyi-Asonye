@@ -124,6 +124,18 @@ I'm a firm believer in using tech for good. Here are a few ways i'm trying to do
   </button>
 </form>
 
+<p style="text-align:center;">
+  <a href="https://www.linkedin.com/in/ifeany-asonye/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://www.youtube.com/@TheSysadminGuy">
+    <img src="https://img.shields.io/badge/YouTube-red?logo=youtube" alt="YouTube">
+  </a>
+  <a href="https://open.spotify.com/show/4frUoKQY7yTWj6LXfsinqb?si=880dcb2208b74eea">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?logo=spotify" alt="Spotify">
+  </a>
+</p>
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ifeany-asonye/)  [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube)](https://www.youtube.com/@TheSysadminGuy) [![Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify)](https://open.spotify.com/show/4frUoKQY7yTWj6LXfsinqb?si=880dcb2208b74eea)
 ---
