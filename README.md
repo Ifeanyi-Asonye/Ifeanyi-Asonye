@@ -1,5 +1,5 @@
 <div style="background-color:#f0f0f0;padding:40px;text-align:center;">
-  <p style="font-size:14px;color:#555;">Welcome to my minimal portion of the internet...👋</p>
+  <p style="font-size:16px;color:#555;">Welcome to my minimal portion of the internet...👋</p>
 </div>
 
 ---
@@ -47,7 +47,7 @@ I write about:
 
 ---
 
-## **Technical Skills**
+## 👨🏻‍💻🔧⚙️ Technical Skills
 
 | **Domain**                     | **Tools & Technologies**                                                                 |
 |--------------------------------|-------------------------------------------------------------------------------------------|
