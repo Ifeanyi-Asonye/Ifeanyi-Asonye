@@ -107,7 +107,7 @@ I'm a firm believer in using tech for good. Here are a few ways i'm trying to do
 ## 🌐 Connect with Me
 
 <form action="https://formspree.io/f/yourFormID" method="POST" style="max-width:500px;margin:auto;padding:20px;border:1px solid #ddd;border-radius:8px;background:#f9f9f9;font-family:sans-serif;">
-  <h2 style="text-align:center;margin-bottom:20px;">Get in Touch</h2>
+  <h2 style="text-align:center;margin-bottom:20px;">Send a Messsage</h2>
 
   <input type="text" name="name" placeholder="Your name" required
     style="width:100%;padding:10px;margin-bottom:10px;border:1px solid #ccc;border-radius:4px;">
