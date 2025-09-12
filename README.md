@@ -1,9 +1,7 @@
 <div style="background-color:#f0f0f0;padding:40px;text-align:center;">
   <h1 style="margin-bottom:10px;">Ifeanyi Asonye</h1>
-  <p style="font-size:18px;color:#555;">Welcome to my minimal portion of the internet...</p>
+  <p style="font-size:18px;color:#555;">Welcome to my minimal portion of the internet...👋</p>
 </div>
-
-# 👋 Welcome
 
 Hi, I'm **Ifeanyi** — a curious technologist with a background in customer service and technical support, currently thriving as a **System Administrator** and **Cloud Support Engineer**. I'm exploring the intersections of **Site Reliability Engineering** and **Technical Program Management**, while writing content that bridges clarity and complexity.
 
