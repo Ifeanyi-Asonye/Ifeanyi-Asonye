@@ -46,8 +46,9 @@ I write about:
 - Career reflections and tech culture  
 - Faith and contemporary contents
 
-📚 [Read my latest posts](https://your-blog-link.com)
+📚 [Read my latest posts](./_posts/2025-09-12-my-first-post.md)
 
+- [My First Post](./_posts/2025-09-12-my-first-post.md)
 ---
 
 ## 🎓 Certifications
