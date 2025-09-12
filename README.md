@@ -51,8 +51,8 @@ I write about:
 ## **Technical Skills**
 
 | **Domain**                     | **Tools & Technologies**                                                                 |
-|-------------------------------|-------------------------------------------------------------------------------------------|
-| **Systems & Infrastructure**   | Linux (Ubuntu, CentOS, RedHat), Windows Server, VMware ESXi, Hyper-V, Docker             |
+|--------------------------------|-------------------------------------------------------------------------------------------|
+| **Systems & Infrastructure**   | Linux (Ubuntu, CentOS), Windows Server, VMware ESXi, Hyper-V, Docker                     |
 | **Cloud & Hybrid Platforms**   | AWS, Microsoft Azure, Oracle Cloud Infrastructure (OCI), Active Directory, Azure AD      |
 | **Identity & Collaboration**   | Microsoft 365, Google Workspace, IAM                                                     |
 | **Monitoring & Reliability**   | Zabbix, ITIL practices, Quality Management Systems (QMS)                                 |
@@ -72,10 +72,10 @@ I write about:
 
 I'm a firm believer in using tech for good. Here are a few ways i'm trying to do that:
 
-- **Tech Literacy Workshops**   – Teaching digital skills to underserved communities  
-- **Mentorship**                – Supporting early-career professionals in IT and cloud roles  
-- **Volunteer System Admin**    – Helping nonprofits manage their infrastructure securely  
-- **Open Source Contributions** – Sharing tools and documentation for broader access  
+- **Tech Literacy Workshops**                – Teaching digital skills to underserved secondary schools  
+- **Mentorship**                             – Supporting early-career professionals in IT and cloud roles  
+- **Volunteer System Admin / IT support**    – Helping nonprofits manage their infrastructure securely  
+- **Open Source Contributions**              – Sharing tools and documentation for broader access  
 
 ---
 
