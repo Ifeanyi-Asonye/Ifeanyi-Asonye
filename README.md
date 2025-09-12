@@ -48,7 +48,6 @@ I write about:
 
 📚 [Read my latest posts](./_posts/2025-09-12-my-first-post.md)
 
-- [My First Post](./_posts/2025-09-12-my-first-post.md)
 ---
 
 ## 🎓 Certifications
