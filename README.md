@@ -22,11 +22,10 @@ Here are a few things I've built or contributed to:
 I write about:
 
 - Cloud security and best practices  
-- System administration tips and automation  
-- Technical program management insights
-- Database management
-- Infrastructure Monitoring and Reliabilty 
+- System administration & Infrastructure Monitoring and Reliabilty  
+- Exploration in Database management & Technical program management
 - Career reflections and tech culture  
+- Faith and contemporary contents
 
 📚 [Read my latest posts](https://your-blog-link.com)
 
