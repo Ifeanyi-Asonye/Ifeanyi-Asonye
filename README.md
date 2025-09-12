@@ -8,7 +8,7 @@
 
 <div style="display:flex;align-items:center;justify-content:space-between;background-color:#f0f0f0;padding:40px;">
   <div style="text-align:left;">
-    <h1 style="margin:0;">Welcome to my minimal portion of the internet...👋</h1>
+    <p style="font-size:16px;color:#555;">Welcome to my minimal portion of the internet...👋</p>
   </div>
   <img src="ifeanyi.jpg" alt="Ifeanyi Asonye" style="width:100px;height:100px;border-radius:50%;object-fit:cover;">
 </div>
