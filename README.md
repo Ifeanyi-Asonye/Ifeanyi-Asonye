@@ -36,7 +36,7 @@ I write about:
 
 - **AWS CloudOps (formerly SysOps) – Associate (In View)**
 - **Azure Administrator– Associate (In View)**
-- **Kubernetes and Cloud Native Associate – CNCF**
+- **Kubernetes & Cloud Native Associate – CNCF**
 - **Microsoft: Administering Active Directory Domain Services**
 - **Oracle Cloud Infrastructure Foundation Associate**
 - **Security Essentials – Microsoft & LinkedIn**
