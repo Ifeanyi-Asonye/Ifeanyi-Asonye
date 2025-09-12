@@ -106,11 +106,22 @@ I'm a firm believer in using tech for good. Here are a few ways i'm trying to do
 
 ## 🌐 Connect with Me
 
-<form action="https://formspree.io/f/yourFormID" method="POST">
-  <input type="text" name="name" placeholder="Your name" required>
-  <input type="email" name="_replyto" placeholder="Your email" required>
-  <textarea name="message" placeholder="Your message" required></textarea>
-  <button type="submit">Send</button>
+<form action="https://formspree.io/f/yourFormID" method="POST" style="max-width:500px;margin:auto;padding:20px;border:1px solid #ddd;border-radius:8px;background:#f9f9f9;font-family:sans-serif;">
+  <h2 style="text-align:center;margin-bottom:20px;">Get in Touch</h2>
+
+  <input type="text" name="name" placeholder="Your name" required
+    style="width:100%;padding:10px;margin-bottom:10px;border:1px solid #ccc;border-radius:4px;">
+
+  <input type="email" name="_replyto" placeholder="Your email" required
+    style="width:100%;padding:10px;margin-bottom:10px;border:1px solid #ccc;border-radius:4px;">
+
+  <textarea name="message" placeholder="Your message" required
+    style="width:100%;padding:10px;height:120px;margin-bottom:10px;border:1px solid #ccc;border-radius:4px;"></textarea>
+
+  <button type="submit"
+    style="width:100%;padding:10px;background-color:#007acc;color:white;border:none;border-radius:4px;cursor:pointer;">
+    Send
+  </button>
 </form>
 
 
