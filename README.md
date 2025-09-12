@@ -1,4 +1,16 @@
 
+<script src="https://cdn.jsdelivr.net/npm/darkmode-js/lib/darkmode-js.min.js"></script>
+<script>
+  const options = {
+    bottom: '32px',
+    right: '32px',
+    label: '🌓',
+    autoMatchOsTheme: true
+  }
+  const darkmode = new Darkmode(options);
+  darkmode.showWidget();
+</script>
+
 <div style="background-color:#f0f0f0;padding:40px;text-align:center;">
   <p style="font-size:16px;color:#555;">Welcome to my minimal portion of the internet...👋</p>
 </div>
