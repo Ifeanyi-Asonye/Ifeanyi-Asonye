@@ -1,5 +1,6 @@
 
 <img src="/ifeanyi.jpg" alt="Ifeanyi Asonye" style="float:right;width:100px;height:100px;border-radius:50%;object-fit:cover;margin-left:20px;">
+
 <div style="background-color:#f0f0f0;padding:40px;text-align:center;">
   <p style="font-size:16px;color:#555;">Welcome to my minimal portion of the internet...👋</p>
 </div>
