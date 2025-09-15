@@ -1,16 +1,4 @@
 
-<script src="https://cdn.jsdelivr.net/npm/darkmode-js/lib/darkmode-js.min.js"></script>
-<script>
-  const options = {
-    bottom: '32px',
-    right: '32px',
-    label: '🌓',
-    autoMatchOsTheme: true
-  }
-  const darkmode = new Darkmode(options);
-  darkmode.showWidget();
-</script>
-
 <div style="background-color:#f0f0f0;padding:40px;text-align:center;">
   <p style="font-size:16px;color:#555;">Welcome to my minimal portion of the internet...👋</p>
 </div>
@@ -105,25 +93,6 @@ I'm a firm believer in using tech for good. Here are a few ways i'm trying to do
 ---
 
 ## 🌐 Connect with Me
-
-<form action="https://formspree.io/f/yourFormID" method="POST" style="max-width:500px;margin:auto;padding:20px;border:1px solid #ddd;border-radius:8px;background:#f9f9f9;font-family:sans-serif;">
-  <h2 style="text-align:center;margin-bottom:20px;">Send a Messsage</h2>
-
-  <input type="text" name="name" placeholder="Your name" required
-    style="width:100%;padding:10px;margin-bottom:10px;border:1px solid #ccc;border-radius:4px;">
-
-  <input type="email" name="_replyto" placeholder="Your email" required
-    style="width:100%;padding:10px;margin-bottom:10px;border:1px solid #ccc;border-radius:4px;">
-
-  <textarea name="message" placeholder="Your message" required
-    style="width:100%;padding:10px;height:120px;margin-bottom:10px;border:1px solid #ccc;border-radius:4px;"></textarea>
-
-  <button type="submit"
-    style="width:100%;padding:10px;background-color:#007acc;color:white;border:none;border-radius:4px;cursor:pointer;">
-    Send
-  </button>
-</form>
-
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ifeany-asonye/)  [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube)](https://www.youtube.com/@TheSysadminGuy) [![Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify)](https://open.spotify.com/show/4frUoKQY7yTWj6LXfsinqb?si=880dcb2208b74eea)
