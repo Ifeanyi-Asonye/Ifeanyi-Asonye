@@ -1,16 +1,7 @@
 
-<div style="background-color:#f0f0f0;padding:80px;text-align:center;">
-  <p style="font-size:16px;color:#555;">Welcome to my minimal portion of the internet...👋</p>
-</div>
-
 ---
 
-<img src="ifeanyi.jpg" style="float:top;width:100px;height:100px;border-radius:50%;object-fit:cover;margin-left:20px;">
-
 Hi, I'm **Ifeanyi** — a curious technologist with a background in customer service and technical support, currently thriving as a **System Administrator** and **Cloud Support Engineer**. I'm exploring the intersections of **Site Reliability Engineering** and **Technical Program Management**, while writing content that bridges clarity and complexity.
-
-
-
 
 ---
 
