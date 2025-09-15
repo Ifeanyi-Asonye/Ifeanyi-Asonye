@@ -34,7 +34,7 @@ I write about:
 - Career reflections and tech culture  
 - Faith and contemporary contents
 
-📚 [Read my latest posts](./_posts/2025-09-12-my-first-post.md)
+📚 [Read my latest posts](./_posts/GIT for Aspiring SRE.md)
 
 ---
 
