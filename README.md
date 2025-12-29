@@ -7,7 +7,7 @@ Hi, I'm **Ifeanyi** — a curious technologist with a background in customer ser
 
 ## 🚀 Projects
 
-Here are a few things I've built or contributed to:
+Here are a few things I've worked on:
 
 - **Cloud Resource Monitor** – A lightweight tool for tracking cloud resource usage across providers.
 - **Incident Response Dashboard** – A real-time dashboard for system health and alerts.
@@ -20,12 +20,12 @@ Here are a few things I've built or contributed to:
 I write about:
 
 - System administration & Infrastructure Monitoring and Reliabilty  
-- Cloud security and best practices
+- IT security and best practices
 - Exploration in Database management & Technical program management
 - Career reflections and tech culture  
 - Faith and contemporary contents
 
-📚 [Read my latest posts](./_posts/2025-09-15-git-for-aspiring-sre.md)
+📚 [Read my latest posts](https://ifeanyi-asonye.notion.site/SSH-into-WSL-Via-Powershell-A-Simple-Guide-22f4c0971a578062a91fec562327630c)
 
 ---
 
@@ -46,15 +46,15 @@ I write about:
 
 ## ⚙️ Technical Skills
 
-| **Domain**                     | **Tools & Technologies**                                                                 |
-|--------------------------------|-------------------------------------------------------------------------------------------|
-| **Systems & Infrastructure**   | Linux (Ubuntu, CentOS), Windows Server, VMware ESXi, Hyper-V, Docker                     |
-| **Cloud & Hybrid Platforms**   | AWS, Microsoft Azure, Oracle Cloud Infrastructure (OCI), Active Directory, Azure AD      |
-| **Identity & Collaboration**   | Microsoft 365, Google Workspace, IAM                                                     |
-| **Monitoring & Reliability**   | Zabbix, ITIL practices, Quality Management Systems (QMS)                                 |
-| **Automation & Scripting**     | Bash scripting, Git (GitHub, Bitbucket, GitLab), System Documentation                    |
-| **Databases**                  | MySQL, PostgreSQL (basic administration and usage)                                       |
-| **Process & Delivery**         | Agile, Scrum, Lean methodologies                                                         |
+| **Domain**                     | **Tools & Technologies**                                                                     |
+|--------------------------------|----------------------------------------------------------------------------------------------|
+| **Systems & Infrastructure**   | Linux (Ubuntu, CentOS), Windows Server, VMware ESXi, Hyper-V, Proxmox, Docker                |
+| **Cloud & Hybrid Platforms**   | AWS, Microsoft Azure, Oracle Cloud Infrastructure (OCI), Active Directory, Azure AD          |
+| **Identity & Collaboration**   | Microsoft 365, Google Workspace, IAM                                                         |
+| **Monitoring & Reliability**   | Zabbix, Patchmon                                |
+| **Automation & Scripting**     | Bash, Git (GitHub, Bitbucket, GitLab), System Documentation                                  |
+| **Databases**                  | MySQL, PostgreSQL (basic administration and usage)                                           |
+| **Process & Delivery**         | Agile, Scrum, Lean methodologies, ITIL practices, Quality Management Systems (QMS)                                                                                                                           |
 
 ### Other Skills
 
