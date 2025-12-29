@@ -9,9 +9,9 @@ Hi, I'm **Ifeanyi** — a curious technologist with a background in customer ser
 
 Here are a few things I've worked on:
 
-- **Cloud Resource Monitor** – A lightweight tool for tracking cloud resource usage across providers.
-- **Incident Response Dashboard** – A real-time dashboard for system health and alerts.
-- **Tech Support Toolkit** – Scripts and utilities to streamline troubleshooting workflows.
+- 
+- 
+- 
 
 ---
 
