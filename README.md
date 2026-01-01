@@ -57,7 +57,6 @@ Hi — I'm **Ifeanyi**, a hands-on System Administrator and Cloud Support Engine
 
 ---
 
----
 
 ## Certifications & Learning
 
