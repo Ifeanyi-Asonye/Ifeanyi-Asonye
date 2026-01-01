@@ -4,7 +4,7 @@
 
 ---
 
-## TL;DR — What I bring  
+## What I bring  
 
 - Operational ownership: systems maintenance, patching, backup and recovery, identity, and support workflows.
 - Monitoring & incident triage: experience with Zabbix and operational alerts; runbook authoring in progress.
@@ -30,7 +30,7 @@
 
 ---
 
-## How I Work — practical ops first 🔧
+## How I Work 🔧
 
 - Focus on repeatable operations: runbooks, checklists, and clear escalation paths.
 - Pragmatic observability: tune alerts for signal, not noise; document triage steps.
@@ -39,7 +39,7 @@
 
 ---
 
-## Skills & Tools (accurate & staged)
+## Skills & Tools 
 
 **Proficient / Regularly use**
 - Zabbix, Patchmon
