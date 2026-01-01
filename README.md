@@ -1,94 +1,104 @@
+---
+
+Hi — I'm **Ifeanyi**, a hands-on System Administrator and Cloud Support Engineer transitioning toward Site Reliability Engineering. I focus on reliable day-to-day operations (Windows Server, Linux, virtualization, Active Directory, backups, and monitoring) while growing SRE skills through practical projects in observability, incident triage, and automation.
 
 ---
 
-Hi, I'm **Ifeanyi** — a curious technologist with a background in customer service and technical support, currently thriving as a **System Administrator** and **Cloud Support Engineer**. I'm exploring the intersections of **Site Reliability Engineering** and **Technical Program Management**, while writing content that bridges clarity and complexity.
+## TL;DR — What I bring  
+
+- Operational ownership: systems maintenance, patching, backup and recovery, identity, and support workflows.
+- Monitoring & incident triage: experience with Zabbix and operational alerts; runbook authoring in progress.
+- Automation: Bash to reduce manual toil and improve consistency.
+- Growing SRE capabilities: building SLIs/SLOs, exploring observability tools and IaC through a hands-on end-to-end SRE project.
 
 ---
 
-## 🚀 Projects
+## Key Projects & Impact
 
-Here are a few things I've worked on:
 
-- 
-- 
-- 
+- **End-to-end SRE project (in progress)**
+  - Building an application lifecycle demo that exercises SDLC → production maintenance: monitoring, simulated failures, incident response runbooks, and basic automation for recovery. This is helping me practice SRE tasks (alert tuning, runbooks, simulated MTTR tracking).
 
----
+- **[Project Name] — Monitoring & Operational Visibility**
+  - Implemented or improved monitoring (Zabbix/Patchmon), documented alert thresholds and runbook steps for common issues. Outcome: clearer triage process and fewer missed incidents.
 
-## 📝 Blog & Technical Content
+- **[Project Name] — Automation & Toil Reduction**
+  - Automated repetitive sysadmin tasks (user provisioning, backups, patching checks) using Bash/PowerShell. Result: improved consistency and reduced time spent on routine ops.
 
-I write about:
-
-- System administration & Infrastructure Monitoring and Reliabilty  
-- IT security and best practices
-- Exploration in Database management & Technical program management
-- Career reflections and tech culture  
-- Faith and contemporary contents
-
-📚 [Read my latest posts](https://ifeanyi-asonye.notion.site/SSH-into-WSL-Via-Powershell-A-Simple-Guide-22f4c0971a578062a91fec562327630c)
+- **[Project Name] — Infrastructure & Virtualization**
+  - Managed virtualization platforms (VMware ESXi, Hyper-V, Proxmox), performed host maintenance and capacity planning to keep systems stable and available.
 
 ---
 
-## 🎓 Certifications
+## How I Work — practical ops first 🔧
 
-- **AWS CloudOps (formerly SysOps) – Associate (In View)**
-- **Azure Administrator– Associate (In View)**
-- **Kubernetes & Cloud Native Associate – CNCF**
-- **Microsoft: Administering Active Directory Domain Services**
-- **Oracle Cloud Infrastructure Foundation Associate**
-- **Security Essentials – Microsoft & LinkedIn**
-- **Managing Google Workspace – Google & Coursera**
-- **System Administration Essentials – Microsoft & LinkedIn**
-
-> Still learning, always evolving.
+- Focus on repeatable operations: runbooks, checklists, and clear escalation paths.
+- Pragmatic observability: tune alerts for signal, not noise; document triage steps.
+- Blameless postmortems and tracked follow-ups for reliability improvements.
+- Small, measurable automation efforts that save hours and reduce human error.
 
 ---
 
-## ⚙️ Technical Skills
+## Skills & Tools (accurate & staged)
 
-| **Domain**                     | **Tools & Technologies**                                                                     |
-|--------------------------------|----------------------------------------------------------------------------------------------|
-| **Systems & Infrastructure**   | Linux (Ubuntu, CentOS), Windows Server, VMware ESXi, Hyper-V, Proxmox, Docker                |
-| **Cloud & Hybrid Platforms**   | AWS, Microsoft Azure, Oracle Cloud Infrastructure (OCI), Active Directory, Azure AD          |
-| **Identity & Collaboration**   | Microsoft 365, Google Workspace, IAM                                                         |
-| **Monitoring & Reliability**   | Zabbix, Patchmon                                |
-| **Automation & Scripting**     | Bash, Git (GitHub, Bitbucket, GitLab), System Documentation                                  |
-| **Databases**                  | MySQL, PostgreSQL (basic administration and usage)                                           |
-| **Process & Delivery**         | Agile, Scrum, Lean methodologies, ITIL practices, Quality Management Systems (QMS)                                                                                                                           |
+**Proficient / Regularly use**
+- Zabbix, Patchmon
+- VMware ESXi, Hyper-V, Proxmox , Docker
+- Active Directory, Microsoft 365
+- Linux (Ubuntu, CentOS), Windows Server
+- AWS, Azure 
+- Bash
+- MySQL, Postgres (ops & troubleshooting basics)
 
-### Other Skills
-
-- Community engagement communication
-- Stakeholder engagement. 
-- Basic tech tutoring
+**Learning / Familiar / Practicing**
+- Observability concepts (SLIs/SLOs), Prometheus, Grafana (beginners)
+- IaC basics (Terraform — learning)
+- Kubernetes (basic exposure) and incident simulation
 
 ---
 
-## 🌍 Social Impact
+---
 
-I'm a firm believer in using tech for good. Here are a few ways i'm trying to do that:
+## Certifications & Learning
 
-- **Tech Literacy Workshops**                – Teaching digital skills to underserved secondary schools  
-- **Mentorship**                             – Supporting early-career professionals in IT and cloud roles  
-- **Volunteer System Admin / IT support**    – Helping nonprofits manage their infrastructure securely  
-- **Open Source Contributions**              – Sharing tools and documentation for broader access  
+- AWS CloudOps (SysOps) — in progress
+- Azure Administrator — in progress
+- CNCF: Kubernetes & Cloud Native Associate
+- Microsoft: Administering AD DS
+- Oracle Cloud Infrastructure — Foundation
+
+> Continual learner — I prefer learning by fixing problems and documenting the process.
 
 ---
 
+## Writing & Teaching
 
+I write practical guides and run workshops that help teams bridge theory and practice — monitoring recipes, incident retros, and cloud hardening notes.
 
-## 📄 Resume
-
-🎯 [View My Resume](https://www.notion.so/ifeanyi-asonye/Resume-22e4c0971a578069ac75e58c5065ec9c)
+📚 [Read my latest post (example)](https://ifeanyi-asonye.notion.site/SSH-into-WSL-Via-Powershell-A-Simple-Guide-22f4c0971a578062a91fec562327630c)
 
 ---
 
-## 🌐 Connect with Me
+## Social Impact
 
+- Tech literacy workshops — teaching fundamentals in underserved schools.
+- Mentorship — helping early-career engineers and sysadmins transition into cloud/SRE roles.
+- Volunteer IT support — secure, sustainable infrastructure for nonprofits.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ifeany-asonye/)  [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube)](https://www.youtube.com/@TheSysadminGuy) [![Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify)](https://open.spotify.com/show/4frUoKQY7yTWj6LXfsinqb?si=880dcb2208b74eea)
 ---
 
-_Thanks for stopping by. Stay curious._
+## Projects & Resume
+
+- Fill the **Projects** section above with short, quantifiable summaries (problem → action → result).
+
+🎯 [Resume (full)](https://www.notion.so/ifeanyi-asonye/Resume-22e4c0971a578069ac75e58c5065ec9c)
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ifeany-asonye/)  [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube)](https://www.youtube.com/@TheSysadminGuy)
+
+---
 
 
