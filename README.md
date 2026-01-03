@@ -1,6 +1,6 @@
 ---
 
-#### Hi — I'm **Ifeanyi**, a hands-on System Administrator and Cloud Support Engineer transitioning toward Site Reliability Engineering. I focus on reliable day-to-day operations (Windows Server, Linux, virtualization, Active Directory, backups, and monitoring) while growing SRE skills through practical projects in observability, incident triage, and automation.
+Hi — I'm **Ifeanyi**, a hands-on System Administrator and Cloud Support Engineer transitioning toward Site Reliability Engineering. I focus on reliable day-to-day operations (Windows Server, Linux, virtualization, Active Directory, backups, and monitoring) while growing SRE skills through practical projects in observability, incident triage, and automation.
 
 ---
 
